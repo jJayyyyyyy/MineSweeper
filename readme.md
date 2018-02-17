@@ -7,7 +7,7 @@
 
 ##	Demo
 
-*	[Demo1](https://jjayyyyyyy.github.io/MineSweeper/Demo1/index.html) is my init version of Minesweeper, with lots of TODOs.
+*	[Demo1](https://jjayyyyyyy.github.io/MineSweeper/Demo1) is my init version of Minesweeper, with lots of TODOs.
 
 	*	rightClick to mark a mine
 	*	css
@@ -16,7 +16,7 @@
 
 <br>
 
-*	[Demo2](https://jjayyyyyyy.github.io/MineSweeper/Demo2/index.html) is cloned from the original project: [Coding Challenge 71: Minesweeper](https://github.com/CodingTrain/website/tree/master/CodingChallenges/CC_71_minesweeper).
+*	[Demo2](https://jjayyyyyyy.github.io/MineSweeper/Demo2) is cloned from the original project: [Coding Challenge 71: Minesweeper](https://github.com/CodingTrain/website/tree/master/CodingChallenges/CC_71_minesweeper).
 
 	In order to avoid a high CPU usage, some changes are made as below to optimize the performance.
 
