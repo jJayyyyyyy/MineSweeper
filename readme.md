@@ -1,5 +1,5 @@
-![p5](https://img.shields.io/badge/games-p5.js-E91E63.svg?colorA=00C853)
-![ctcc](https://img.shields.io/badge/CodingTrain-CodingChallenges-4FC3F7.svg?colorA=FFA000)
+![p5](https://github.com/jJayyyyyyy/MineSweeper/blob/master/assets/games-p5.js-E91E63-colorA-00C853.svg)
+![ctcc](https://github.com/jJayyyyyyy/MineSweeper/blob/master/assets/CodingTrain-CodingChallenges-4FC3F7-colora-FFA000.svg)
 
 ##	Inspiration
 
